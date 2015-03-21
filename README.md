@@ -1,2 +1,3 @@
-# stream_status
-Shows the status of Shoutcast streaming servers
+# Status of Shoutcast streaming servers
+
+Shows the status of Shoutcast streaming servers using React.
